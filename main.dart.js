@@ -79180,7 +79180,7 @@ var $async$y8=A.M(function(c,d){if(c===1){o.push(d)
 s=p}while(true)switch(s){case 0:if(!J.d(a.h(0,"ai_comment"),"loading")){s=1
 break}m=B.c.m5(n.d.h(0,n.y).a.a)
 p=4
-i=A.eT("http://127.0.0.1:5000/api/get_ai_comment",0,null)
+i=A.eT("https://food-ai-api-deploy.onrender.com/api/get_ai_comment",0,null)
 h=t.N
 g=A.ah(["Content-Type","application/json"],h,h)
 s=7
