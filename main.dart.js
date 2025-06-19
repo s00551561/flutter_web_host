@@ -79163,7 +79163,7 @@ s=1
 break}if(!B.b.t(p.w,o)){B.b.nj(p.w,0,o)
 n=p.w
 if(n.length>10)p.w=B.b.c3(n,0,10)}m=a?"\u6211\u5728\u53f0\u5317\u8eca\u7ad9\u9644\u8fd1\u60f3\u5403"+o:o
-n=A.eT("http://127.0.0.1:5000/api/recommend",0,null)
+n=A.eT("https://food-ai-api-deploy.onrender.com/api/recommend",0,null)
 l=t.N
 k=A.ah(["Content-Type","application/json"],l,l)
 s=3
